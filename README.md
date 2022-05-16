@@ -13,6 +13,6 @@ Refactor this Horiseon Website.
 ![Horiseon Website](./assets/images/Horiseon.png)
 
 ## Resources 
-[Live Site](https://vanessaliaw021.github.io/seo-refactor)
+- [Live Site](https://vanessaliaw021.github.io/seo-refactor)
 
-[Github Repo](https://github.com/VanessaLiaw021/seo-refactor)
+- [Github Repo](https://github.com/VanessaLiaw021/seo-refactor)
