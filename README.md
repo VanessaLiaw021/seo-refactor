@@ -7,7 +7,15 @@
 
 ## Description
 
-Refactor this Horiseon Website. 
+Refactor this Horiseon Website to meet the requirement. 
+
+- Added meta tag that describe this website 
+
+- Change all div tag to semantic HTML tags
+
+- Add comments to the HTML and CSS for changes that was made
+
+- Duplicate code in CSS, change class name in HTML to shorten css code in CSS
  
 ## Visuals
 ![Horiseon Website](./assets/images/Horiseon.png)
